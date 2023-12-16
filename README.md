@@ -1,2 +1,2 @@
-# ravi-one10.githubio
-website
+# onlineshop
+Template website for online shopping
